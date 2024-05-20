@@ -1,1 +1,1 @@
-Some content for new file
+Updated content for new_file
